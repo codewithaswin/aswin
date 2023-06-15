@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Nabla&display=swap');
+body{
+    background-color: gray;
+}
+.heading{
+    color: white;
+}
+.head{
+    border: 10px solid white;
+    text-align: center;
+    background-color: black;
+
+}
+.text{
+    font-family: 'Nabla', cursive;
+}
