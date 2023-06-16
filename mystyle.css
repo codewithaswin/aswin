@@ -1,0 +1,32 @@
+.head1{
+  background-color: gold;
+  text-align: center;
+  
+}
+  .p2{
+    
+    position: absolute;
+    bottom: 0;
+    right: 0;  }
+    .t1{
+        text-align: right;
+        border-style: dotted;
+        border-color: darkgreen;
+       }
+    .pr{
+        margin-left: 330px;
+        margin-block-start: 0%;
+    }
+
+    .p1{
+        margin-top: auto ;
+        border-left: 6px solid green;
+          height: 600px;
+          position: absolute;
+          left: 15%;
+          margin-left: -3px;
+          top: 6;}
+    .cl{ margin-top: auto;
+
+          }
+         
