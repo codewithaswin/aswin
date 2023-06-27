@@ -1,1 +1,51 @@
-<img src="images/mikasa-ackerman-1920x1080-10467.jpg" height="400" width="500" alt="img">
+.m1{
+    border: 1px solid black;
+    background-color: black;
+   
+    
+}
+.i,.i1,.i2,.i3{
+    width: 100%;
+    height: 300px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.m3{
+    border: 15px solid rgb(9, 236, 74);
+    background-color: rgb(9, 236, 74);
+  
+    
+}
+.m5{
+    background-color: rgb(248, 201, 201);
+    text-align: justify;
+    font-size: smaller;
+    margin-left: 24px;
+}
+.m7{
+    margin-left: 70px;
+}
+.p{
+    background-color: rgb(243, 197, 197);
+}
+.m8{
+    margin-left: 24px;
+}
+.j{
+    text-align: justify;
+}
+.im{
+    width: 100%;
+    height: 518px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.l{
+    text-align: start;
+}
+.ls{
+    text-align: end;
+}
+.n{
+    border-radius: 40px;
+}
